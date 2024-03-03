@@ -14,3 +14,7 @@ Learning objectives:
   - React
   - HTML
   - CSS
+  - JavaScript
+
+ Reference:
+   [Frontend](https://zellwk.com/blog/calculator-part-1/)
